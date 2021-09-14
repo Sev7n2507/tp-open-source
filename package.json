@@ -1,0 +1,11 @@
+{
+  "name": "tp-open-source",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sev7n2507/tp-open-source.git"
+  },
+  "license": "MIT"
+}
