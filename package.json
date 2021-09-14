@@ -13,5 +13,8 @@
   },
   "scripts": {
     "build": "parcel build src/main.js"
+  },
+  "dependencies": {
+    "@octokit/core": "^3.5.1"
   }
 }
