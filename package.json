@@ -15,6 +15,7 @@
     "build": "parcel build src/main.js"
   },
   "dependencies": {
+    "@octokit/auth-token": "^2.4.5",
     "@octokit/core": "^3.5.1",
     "yaml": "^1.10.2"
   }
