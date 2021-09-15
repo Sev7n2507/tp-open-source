@@ -1,6 +1,9 @@
 import YAML from 'yaml'
 
 (() => {
+
+  document.getElementById("interactive-readme").classList.add("active")
+
   fetch('https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml')
     .then((response) => response.text())
     .then((responseText) => YAML.parse(responseText))
