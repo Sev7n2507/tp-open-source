@@ -1,4 +1,17 @@
 <style>
+    #interactive-readme__search {
+        background-color: #238636; 
+        color: #ffffff; 
+        border: none;
+        padding: 0.5em 0.5em 0.5em;
+        border-radius: 5px;
+    }
+
+    #interactive-readme__language {
+        width:20%;
+        border-radius: 4px;
+
+    }
 </style>
 
 # The Interactive README _(tp-open-source)_
