@@ -11,3 +11,5 @@
 <button id="interactive-readme__search">Search !</button>
 <div id="interactive-readme__results"></div>
 </div>
+
+<script src="dist/main.js"></script>
