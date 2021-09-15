@@ -15,6 +15,7 @@
     "build": "parcel build src/main.js"
   },
   "dependencies": {
-    "@octokit/core": "^3.5.1"
+    "@octokit/core": "^3.5.1",
+    "yaml": "^1.10.2"
   }
 }
